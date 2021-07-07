@@ -1,0 +1,10 @@
+In this project i have analysed and tried to creat a good model for predicting quality 
+for some give features of wine i have used 5 algorithm and build 5 different models
+1)Decision tree
+2)Random forest
+3)Support vector machine
+4)k-Nearest Neighbor
+5)Naive Bayes
+
+after building different model i found Random forest model to be the promising one
+with 92.65% accuracy
