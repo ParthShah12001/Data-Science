@@ -1,0 +1,8 @@
+I have tried to accurately predict the Species of a flower using iris dataset 
+i have got a 100% accuracy in the process with KNN model
+i have used
+1)Logistic Regression
+2)Knn
+3)Navie Bayes
+4)Decision Tree
+5)Random Forest
