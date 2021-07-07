@@ -1,0 +1,10 @@
+I have created a visulization of titanic dataset and tried to predict if the person
+survived the horrific incident or not i tried to predict it using 
+1)Logistic Regression
+2)K-Nearest Neighbors
+3)Decision Tree
+4)Random Forest
+5)Support Vector Machine
+
+I got the heighest accuracy of 82% in Logistic Regression
+
