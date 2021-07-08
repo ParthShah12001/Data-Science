@@ -1,0 +1,3 @@
+I have used Unsupervised Learning to seperate clusters of customers depending upon
+their annual income and their spending score using kMean cluster method and Elbow curve
+to find the number of clusters 
