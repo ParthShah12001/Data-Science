@@ -1,0 +1,5 @@
+I have created a model with predicts if someone will have stroke with accuracy of 98.90%
+I have visualized and tried to fnd the relations among the columns and in this 
+code i have only kept those who had a impact on the output or had some or other 
+relation with other column and deleted other columns and i have also not visualized 
+them in this model 
